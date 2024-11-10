@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Tobias Weiss</title>
+    <link>https://tobiasweede.github.io/blog/</link>
+    <description>Recent content in Blogs on Tobias Weiss</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 18 Aug 2021 00:00:00 -0100</lastBuildDate><atom:link href="https://tobiasweede.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First days in Estonia</title>
+      <link>https://tobiasweede.github.io/blog/first-estonian-impressions/</link>
+      <pubDate>Wed, 18 Aug 2021 00:00:00 -0100</pubDate>
+      
+      <guid>https://tobiasweede.github.io/blog/first-estonian-impressions/</guid>
+      <description>Test</description>
+    </item>
+    
+    <item>
+      <title>Bike tour around Saxonia</title>
+      <link>https://tobiasweede.github.io/blog/saxonia-bike-tour/</link>
+      <pubDate>Thu, 15 Jul 2021 00:00:00 -0100</pubDate>
+      
+      <guid>https://tobiasweede.github.io/blog/saxonia-bike-tour/</guid>
+      <description>After finishing my thesis I deserved some holidays. Luckily my friend Peter lived in Dresden at that time. So, I decided to visit him with my bike and make a two day stop at Leipzig. In the background, you see the Voelkerschlachtdenkmal, which is remniscent of the battle between Napoleon and the prussians in the year 1813.
+The city is nice and offers a great inner circle to explore. I can recommend the Naturhistorische Museum as it only costs 1.</description>
+    </item>
+    
+  </channel>
+</rss>

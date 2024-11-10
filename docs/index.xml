@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GraphWiz.AI</title>
+    <link>https://graphwizai.github.io/</link>
+    <description>Recent content on GraphWiz.AI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 25 Nov 2023 00:00:00 -0100</lastBuildDate><atom:link href="https://graphwizai.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Own Hubs Instance</title>
+      <link>https://graphwizai.github.io/xr/own-hobs/</link>
+      <pubDate>Sat, 25 Nov 2023 00:00:00 -0100</pubDate>
+      
+      <guid>https://graphwizai.github.io/xr/own-hobs/</guid>
+      <description>I decided to host my own Hubs instance:
+https://tobias-weiss.org:8888/
+Here is what ChatGPT would write about this news:
+Mozilla Hubs is a virtual reality (VR) platform developed by Mozilla that enables users to create and join virtual spaces for socializing, collaboration, and immersive experiences. It allows individuals to interact with each other using customizable avatars in a shared 3D environment. One unique aspect of Mozilla Hubs is its accessibility; users can join virtual spaces directly from their web browsers without the need for additional plugins or downloads.</description>
+    </item>
+    
+    <item>
+      <title>Behavioral Graphs Testing Instance</title>
+      <link>https://graphwizai.github.io/xr/behavioralgraphs/</link>
+      <pubDate>Mon, 13 Nov 2023 00:00:00 -0100</pubDate>
+      
+      <guid>https://graphwizai.github.io/xr/behavioralgraphs/</guid>
+      <description>Behavioral Graphs (BGs) extend Mozilla Hubs with interactive features. I think BGs are a great opportunity to push the limits of old &amp;ldquo;gallery like&amp;rdquo; secenes.
+I happily share the link to the Hubs testing instance:
+Behavoral Graphs Testing Instance
+However, you need to sign up for alpha testing: Sign up Form
+Enjoy :)</description>
+    </item>
+    
+    <item>
+      <title>Mozilla Hubs Experiments</title>
+      <link>https://graphwizai.github.io/xr/mozilla_hubs_experiments/</link>
+      <pubDate>Fri, 11 Aug 2023 00:00:00 -0100</pubDate>
+      
+      <guid>https://graphwizai.github.io/xr/mozilla_hubs_experiments/</guid>
+      <description>How do new, exciting and at the same time challenging technologies, such as virtual reality, find their way into university teaching?  One of my articles describes an interdisciplinary project that addresses precisely this question. Our goal is to represent the periodic table of elements as a network of virtual environments in which each element has its own space. A separate learning environment should be designed for each element, which is enriched with information about the elements (e.</description>
+    </item>
+    
+    <item>
+      <title>Running &#39;Hello WebXR&#39; Instance</title>
+      <link>https://graphwizai.github.io/xr/hello-webxr/</link>
+      <pubDate>Thu, 03 Mar 2022 00:00:00 -0100</pubDate>
+      
+      <guid>https://graphwizai.github.io/xr/hello-webxr/</guid>
+      <description>The official WebXR Demo Instance is down. Luckily, I host a private version of it: https://tobias-weiss.org/hello-webxr/
+Please use the right controller and the trigger button (index finger) to navigate.</description>
+    </item>
+    
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>https://graphwizai.github.io/cv/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 -0100</pubDate>
+      
+      <guid>https://graphwizai.github.io/cv/</guid>
+      <description>Picture by Katrina Friese (JLU)    Education and working experience 2022&amp;ndash;2025: Doctoral researcher, kd2school graduate college member, Justus-Liebig University, Giessen.
+2020&amp;ndash;2022: M. Sc. Wirtschaftsinformatik (Infomation Systems), Friedrich-Schiller University, Jena.
+2015&amp;ndash;2021: Research assistant, Labor für empirische und experimentelle Wirtschaftsforschung, Friedrich-Schiller University Jena.
+2015&amp;ndash;2020: B. Sc. Wirtschaftsinformatik (Infomation Systems), Friedrich-Schiller University, Jena.
+2014&amp;ndash;2015: Wirtschaftsoberschule - Abitur (eqivalent to A levels), David–Würth Schule, VS-Schwenningen.
+2013: IT administrator, DKMS gGmbH, Tübingen, 2nd-level IT-support.</description>
+    </item>
+    
+    <item>
+      <title>Gallery</title>
+      <link>https://graphwizai.github.io/gallery/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 -0100</pubDate>
+      
+      <guid>https://graphwizai.github.io/gallery/</guid>
+      <description>Impressions of Tallinn:   Malmö and Helsinki:   Study time - Swedish and AI posters:   Jena covered in snow (a very rare event):  </description>
+    </item>
+    
+    <item>
+      <title>Personal Story</title>
+      <link>https://graphwizai.github.io/story/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 -0100</pubDate>
+      
+      <guid>https://graphwizai.github.io/story/</guid>
+      <description>Hi, my name is Tobias.
+I was raised in a small village in south-west Germany. My mother tongue is Swabian. However, I am also familiar with German and English. Swedish and French also work to some extent.
+Here are my latest selfies from Berlin in 2024.
+   The pictures below show me in Berlin and Leipzig in 2020/2021.
+   With respect to Information Technology (IT), most things are fine for me.</description>
+    </item>
+    
+    <item>
+      <title>Pretty Good Privacy</title>
+      <link>https://graphwizai.github.io/pgp/</link>
+      <pubDate>Wed, 17 Feb 2021 00:00:00 -0100</pubDate>
+      
+      <guid>https://graphwizai.github.io/pgp/</guid>
+      <description>Pretty Good Privacy (PGP) is a method for data encryption and decryption. With a properly configured e-mail software, it provides cryptographic privacy and authentication. If you like to send me an encrypted message via PGP, please use following public key:
+-----BEGIN PGP PUBLIC KEY BLOCK----- Version: GnuPG v1 mQENBFYCO74BCADOBNXrIhqop5pQSHAAmozqY7w+/7CuWzsY36SbYfEKrhjFOEtw K6YYYlsIyJRyilICHIkFtDtg04v+aSyJD6UTtjiCTDVaf+BEdM5cQ/TGq33xr0NQ sCxcPpRJwhfFyBO3dz9a+M/umenbhQ0tEWsgqf0o1y4BTxdoCvS4IWEXovfNLY7X m4a4+OTkyXrsa4QpD71iSkD2K6A1TYS62oVy46ka/8B/dgWwd9ly/IeqxZI7R7uv NiqnerI5dUaucWS0iOc/+pUFBMVMe5BMsaTfjuNffanpOHcoGwc9yxrUa8Gb53DD qj3jX6d9li+2hp68JfLYQee7iIWDyWvo24XxABEBAAG0JlRvYmlhcyBXZWlzcyA8 dG9iaWFzQHRvYmlhcy13ZWlzcy5vcmc+iQE4BBMBAgAiBQJWAju+AhsDBgsJCAcD AgYVCAIJCgsEFgIDAQIeAQIXgAAKCRAP/o4W38tth590CADGPIwTlfFau4WDaJET 7GVLX0iLw4QU19KaXZSjQa6QPkj1l/QX0dNv/YgkfOEVnd4RoJXjrB5MidK8iHaa PSZcB2mWD1t8EDFHgc+Xcaj8d5FCCKFnYnxrNDkTT7YWEZP010c1+e3mzAVzuG8b CjZT6DVA9i+Ak6RnSS5/LnLOpjTt+O9qAOIgGePAUyWCAKxGZvbqG8/hL3nYYLCn GB53E/oBClUbRJCKqULkjHCnzVVNVdIOJ6zTqT7+aw2ib9LHQyEhM9VSBon0cp+1 ImUKY4LQRA0A0uLLLtWZeppQ52id+3sZ3dCMCXzm5Og61GfCkWhtxAyCaDb84ojZ UBwsuQENBFYCO74BCACfQrUkNEWRgyvhXG9ajW8ZBf6y4RoDJqX+uli2jHXiAv/1 tNkj/NwhlPY1WS3QIUCekKg8G7JgEF/hEMrcUo+vaW6mpN7r8cFERc1Yh678VUcY 5VexcwM3wtXezj6sewDxEQ2I/QHCEMCPWZGCe78dx4udKzj+H4NIeCs/wnBzMFBC 0ENHCW2PeZGi0iuw5ZKCLr7bOsPydw/ZSHTWa9ttIW5IDpG3PILF8qVI/DOgC7Mi +8jlbLFm9nBlLg8BBTPIfcCNPf66zpVvQnSTKyvfbUzs8GqlkJbstTc2SJj0gPf5 Zpk/YdHmh9xL/G42xH0UMaWUuJh1GxBBi9On7YyNABEBAAGJAR8EGAECAAkFAlYC O74CGwwACgkQD/6OFt/LbYewfgf+P+pIZFtkP5mbUQ3s90xXBaZFXiKd8CpPvCv7 Lscr8w78is6hcy3Uzfrh7CwxTbE3CY9RboBjCVM40/dG0V2RttjtO4b6FnbmwKQ2 B22EpBkUt0HIcWcGXDemw5nEygpIpDByUuHO7ubvmccbyDNbgh5Yqj5ROvz7gmEI v3LjTBJ54Cq0/QPt3Rr9/QgTJxptBmY9ezfM8uNtDMovkcDr8Dx+PdrPvtgIqFKy q4cFoYHvmjEHcQshaJ+XRq4hcX0oI7289Nfw8ZfhQCWxpZusfe27noQcEc2G76HQ sCdnN6RNxFCgfHuLvWizqam0ClprKHD+UUI0TpIdraIhLTo71Q== =hARX -----END PGP PUBLIC KEY BLOCK----- Feel free to contact me via e-mail spam@tobias-weiss.</description>
+    </item>
+    
+  </channel>
+</rss>

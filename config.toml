@@ -1,0 +1,69 @@
+## Basic Configuration
+
+baseurl = "https://graphwizai.github.io/" 
+builddrafts = false
+canonifyurls = false
+languageCode = "en-US"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "docs"
+
+author = "GraphWiz AI"
+title = "GraphWiz AI"
+
+theme = "tobi-goa"
+
+## Hugo Built-in Features
+disqusShortname = "https-tobiasweede-github-io" # Comment out to disable Disqus.
+googleAnalytics = "XYZ"
+enableRobotsTXT = true
+
+## allow raw HTML
+## https://stackoverflow.com/questions/63198652/hugo-shortcode-ignored-saying-raw-html-omitted
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            unsafe = true
+
+## Site Settings
+[params]
+author = "GraphWiz AI"
+intro = "We give better answers."
+description = "@Giessen, DE"
+authorimage = "logo_v0.png"
+dateformat = "Jan 2, 2006"
+
+## Site Meta Settings
+[params.meta]
+description = "Professional homepage"
+keywords = "ai,xr,ar,vr"
+
+## Social Accounts
+[params.social]
+github = "graphwizai"
+#instagram = "<username>"
+#linkedin = "tobias-weiss-a39426281"
+#twitter = "<username>"
+#facebook = "<username>"
+#google = "<username>"
+#stackoverflow = "<username>"
+email = "info@graphwiz.ai"
+
+## Extras
+[params.extra]
+copyright = "© 2025. GraphWiz AI. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)." 
+poweredby = false
+hightlightjs = true
+
+## Main Menu
+[[menu.main]]
+    name = "artificial intelligence"
+    identifier = "ai"
+    weight = 100
+    url = "/ai/"
+[[menu.main]]
+    name = "eXtended Reality"
+    weight = 200
+    identifier = "xr"
+    url = "/xr/"

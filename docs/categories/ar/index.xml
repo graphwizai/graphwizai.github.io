@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ar on GraphWiz.AI</title>
+    <link>https://graphwizai.github.io/categories/ar/</link>
+    <description>Recent content in ar on GraphWiz.AI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 13 Nov 2023 00:00:00 -0100</lastBuildDate><atom:link href="https://graphwizai.github.io/categories/ar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Behavioral Graphs Testing Instance</title>
+      <link>https://graphwizai.github.io/xr/behavioralgraphs/</link>
+      <pubDate>Mon, 13 Nov 2023 00:00:00 -0100</pubDate>
+      
+      <guid>https://graphwizai.github.io/xr/behavioralgraphs/</guid>
+      <description>Behavioral Graphs (BGs) extend Mozilla Hubs with interactive features. I think BGs are a great opportunity to push the limits of old &amp;ldquo;gallery like&amp;rdquo; secenes.
+I happily share the link to the Hubs testing instance:
+Behavoral Graphs Testing Instance
+However, you need to sign up for alpha testing: Sign up Form
+Enjoy :)</description>
+    </item>
+    
+    <item>
+      <title>Mozilla Hubs Experiments</title>
+      <link>https://graphwizai.github.io/xr/mozilla_hubs_experiments/</link>
+      <pubDate>Fri, 11 Aug 2023 00:00:00 -0100</pubDate>
+      
+      <guid>https://graphwizai.github.io/xr/mozilla_hubs_experiments/</guid>
+      <description>How do new, exciting and at the same time challenging technologies, such as virtual reality, find their way into university teaching?  One of my articles describes an interdisciplinary project that addresses precisely this question. Our goal is to represent the periodic table of elements as a network of virtual environments in which each element has its own space. A separate learning environment should be designed for each element, which is enriched with information about the elements (e.</description>
+    </item>
+    
+    <item>
+      <title>Running &#39;Hello WebXR&#39; Instance</title>
+      <link>https://graphwizai.github.io/xr/hello-webxr/</link>
+      <pubDate>Thu, 03 Mar 2022 00:00:00 -0100</pubDate>
+      
+      <guid>https://graphwizai.github.io/xr/hello-webxr/</guid>
+      <description>The official WebXR Demo Instance is down. Luckily, I host a private version of it: https://tobias-weiss.org/hello-webxr/
+Please use the right controller and the trigger button (index finger) to navigate.</description>
+    </item>
+    
+  </channel>
+</rss>

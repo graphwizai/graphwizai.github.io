@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on GraphWiz.AI</title>
+    <link>https://graphwizai.github.io/tags/</link>
+    <description>Recent content in Tags on GraphWiz.AI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 25 Nov 2023 00:00:00 -0100</lastBuildDate><atom:link href="https://graphwizai.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mozilla Hubs</title>
+      <link>https://graphwizai.github.io/tags/mozilla-hubs/</link>
+      <pubDate>Sat, 25 Nov 2023 00:00:00 -0100</pubDate>
+      
+      <guid>https://graphwizai.github.io/tags/mozilla-hubs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>xr</title>
+      <link>https://graphwizai.github.io/tags/xr/</link>
+      <pubDate>Sat, 25 Nov 2023 00:00:00 -0100</pubDate>
+      
+      <guid>https://graphwizai.github.io/tags/xr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WebXR</title>
+      <link>https://graphwizai.github.io/tags/webxr/</link>
+      <pubDate>Mon, 13 Nov 2023 00:00:00 -0100</pubDate>
+      
+      <guid>https://graphwizai.github.io/tags/webxr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cv</title>
+      <link>https://graphwizai.github.io/tags/cv/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 -0100</pubDate>
+      
+      <guid>https://graphwizai.github.io/tags/cv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gallery</title>
+      <link>https://graphwizai.github.io/tags/gallery/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 -0100</pubDate>
+      
+      <guid>https://graphwizai.github.io/tags/gallery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>personal</title>
+      <link>https://graphwizai.github.io/tags/personal/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 -0100</pubDate>
+      
+      <guid>https://graphwizai.github.io/tags/personal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>story</title>
+      <link>https://graphwizai.github.io/tags/story/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 -0100</pubDate>
+      
+      <guid>https://graphwizai.github.io/tags/story/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pgp</title>
+      <link>https://graphwizai.github.io/tags/pgp/</link>
+      <pubDate>Wed, 17 Feb 2021 00:00:00 -0100</pubDate>
+      
+      <guid>https://graphwizai.github.io/tags/pgp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

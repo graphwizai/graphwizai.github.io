@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mozilla Hubs on GraphWiz.AI</title>
+    <link>https://graphwizai.github.io/tags/mozilla-hubs/</link>
+    <description>Recent content in Mozilla Hubs on GraphWiz.AI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 25 Nov 2023 00:00:00 -0100</lastBuildDate><atom:link href="https://graphwizai.github.io/tags/mozilla-hubs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Own Hubs Instance</title>
+      <link>https://graphwizai.github.io/xr/own-hobs/</link>
+      <pubDate>Sat, 25 Nov 2023 00:00:00 -0100</pubDate>
+      
+      <guid>https://graphwizai.github.io/xr/own-hobs/</guid>
+      <description>I decided to host my own Hubs instance:
+https://tobias-weiss.org:8888/
+Here is what ChatGPT would write about this news:
+Mozilla Hubs is a virtual reality (VR) platform developed by Mozilla that enables users to create and join virtual spaces for socializing, collaboration, and immersive experiences. It allows individuals to interact with each other using customizable avatars in a shared 3D environment. One unique aspect of Mozilla Hubs is its accessibility; users can join virtual spaces directly from their web browsers without the need for additional plugins or downloads.</description>
+    </item>
+    
+  </channel>
+</rss>

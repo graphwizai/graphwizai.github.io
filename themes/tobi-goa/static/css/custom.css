@@ -1,0 +1,18 @@
+/* Add custom CSS here. */
+#dark-mode-pane {
+    margin: 10px;
+}
+
+h2 {
+    font-family: 'Roboto Slab', serif;
+}
+
+.header {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+header.title {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
