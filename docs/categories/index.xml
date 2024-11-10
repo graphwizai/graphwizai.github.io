@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on GraphWiz.AI</title>
+    <title>Categories on GraphWiz AI</title>
     <link>https://graphwizai.github.io/categories/</link>
-    <description>Recent content in Categories on GraphWiz.AI</description>
+    <description>Recent content in Categories on GraphWiz AI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sat, 25 Nov 2023 00:00:00 -0100</lastBuildDate><atom:link href="https://graphwizai.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
@@ -103,24 +103,6 @@
       <pubDate>Sat, 01 Jan 2022 00:00:00 -0100</pubDate>
       
       <guid>https://graphwizai.github.io/categories/personal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>story</title>
-      <link>https://graphwizai.github.io/categories/story/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 -0100</pubDate>
-      
-      <guid>https://graphwizai.github.io/categories/story/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>pgp, personal</title>
-      <link>https://graphwizai.github.io/categories/pgp-personal/</link>
-      <pubDate>Wed, 17 Feb 2021 00:00:00 -0100</pubDate>
-      
-      <guid>https://graphwizai.github.io/categories/pgp-personal/</guid>
       <description></description>
     </item>
     
