@@ -29,7 +29,7 @@ enableRobotsTXT = true
 ## Site Settings
 [params]
 author = "GraphWiz"
-intro = "Artifical Intelligence & eXtended Reality"
+intro = "AI & XR Solution"
 description = "We give better answers."
 authorimage = "graphwiz.jpeg"
 dateformat = "Jan 2, 2006"
