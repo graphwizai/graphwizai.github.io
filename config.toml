@@ -9,8 +9,8 @@ contentdir = "content"
 layoutdir = "layouts"
 publishdir = "docs"
 
-author = "GraphWiz AI"
-title = "GraphWiz AI"
+author = "GraphWiz"
+title = "GraphWiz"
 
 theme = "tobi-goa"
 
@@ -43,7 +43,7 @@ keywords = "ai,xr,ar,vr"
 [params.social]
 github = "graphwizai"
 #instagram = "<username>"
-linkedin = "graphwizai"
+linkedin = "company/tobias-weiss-ai-xr"
 #twitter = "<username>"
 #facebook = "<username>"
 #google = "<username>"
