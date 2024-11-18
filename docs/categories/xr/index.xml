@@ -8,7 +8,7 @@
     <language>en-US</language>
     <lastBuildDate>Sat, 25 Nov 2023 00:00:00 -0100</lastBuildDate><atom:link href="https://graphwizai.github.io/categories/xr/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Own Hubs Instance</title>
+      <title>Hubs Learning Rooms</title>
       <link>https://graphwizai.github.io/xr/hubs-learning-rooms/</link>
       <pubDate>Sat, 25 Nov 2023 00:00:00 -0100</pubDate>
       
@@ -18,21 +18,21 @@ This virtual space showcases the power and accessibility of Hubs, a virtual real
     </item>
     
     <item>
-      <title>Mozilla Hubs Experiments</title>
-      <link>https://graphwizai.github.io/xr/mozilla_hubs_experiments/</link>
+      <title>Learning Room Experiments</title>
+      <link>https://graphwizai.github.io/xr/hubs_experiments/</link>
       <pubDate>Fri, 11 Aug 2023 00:00:00 -0100</pubDate>
       
-      <guid>https://graphwizai.github.io/xr/mozilla_hubs_experiments/</guid>
+      <guid>https://graphwizai.github.io/xr/hubs_experiments/</guid>
       <description>How do new, exciting and at the same time challenging technologies, such as virtual reality, find their way into university teaching?  One of my articles describes an interdisciplinary project that addresses precisely this question. Our goal is to represent the periodic table of elements as a network of virtual environments in which each element has its own space. A separate learning environment should be designed for each element, which is enriched with information about the elements (e.</description>
     </item>
     
     <item>
-      <title>GraphWiz Now Hosts Immersive WebXR Experience</title>
+      <title>Immersive WebXR Experience</title>
       <link>https://graphwizai.github.io/xr/immersive-webxr-experience/</link>
       <pubDate>Thu, 03 Mar 2022 00:00:00 -0100</pubDate>
       
       <guid>https://graphwizai.github.io/xr/immersive-webxr-experience/</guid>
-      <description>TLDR; The official WebXR Demo Instance is down. Luckily, GraphWiz hosts a private version of it: https://tobias-weiss.org/hello-webxr/
+      <description>TLDR; The official WebXR Demo Instance is down. GraphWiz now hosts a private version of it: https://tobias-weiss.org/hello-webxr/
 Mozilla’s immersive WebXR experience, designed to introduce newcomers to the world of Virtual Reality, is now hosted by GraphWiz. The experience is accessible via a single click from a WebXR-enabled browser. The application represents a significant advancement in VR accessibility. It utilizes the WebXR technology, a collaborative effort from a consortium including Google, Microsoft, and Mozilla, among other industry leaders.</description>
     </item>
     

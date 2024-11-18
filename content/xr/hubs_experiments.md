@@ -2,9 +2,9 @@
 categories = ["xr", "vr", "ar", "experiments", "mozilla hubs"]
 date = "2023-08-11T00:00:00-01:00"
 draft = false
-slug = "mozilla_hubs_experiments"
-tags = ["xr"]
-title = "Mozilla Hubs Experiments"
+slug = "hubs_experiments"
+tags = ["xr", "vr", "Learning", "experiments"]
+title = "Learning Room Experiments"
 comments = false
 showcomments = false
 showpagemeta = false
