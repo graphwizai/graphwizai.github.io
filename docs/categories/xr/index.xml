@@ -6,17 +6,7 @@
     <description>Recent content in xr on GraphWiz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 25 Nov 2023 00:00:00 -0100</lastBuildDate><atom:link href="https://graphwizai.github.io/categories/xr/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Hubs Learning Rooms</title>
-      <link>https://graphwizai.github.io/xr/hubs-learning-rooms/</link>
-      <pubDate>Sat, 25 Nov 2023 00:00:00 -0100</pubDate>
-      
-      <guid>https://graphwizai.github.io/xr/hubs-learning-rooms/</guid>
-      <description>GraphWiz has launched its own Hubs instance: https://hubs.tobias-weiss.org/
-This virtual space showcases the power and accessibility of Hubs, a virtual reality (VR) platform enabling users to create and join shared 3D environments for socializing, collaboration, and immersive experiences. Users can interact via customizable avatars directly from their web browsers, eliminating the need for plugins or downloads. GraphWiz’s new Hubs instance provides a personalized and engaging environment for connection, communication, and exploration within the virtual realm, reflecting the company’s commitment to innovative digital spaces and the growing popularity of virtual collaboration tools.</description>
-    </item>
-    
+    <lastBuildDate>Fri, 11 Aug 2023 00:00:00 -0100</lastBuildDate><atom:link href="https://graphwizai.github.io/categories/xr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Learning Room Experiments</title>
       <link>https://graphwizai.github.io/xr/hubs_experiments/</link>

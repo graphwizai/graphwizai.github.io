@@ -6,43 +6,7 @@
     <description>Recent content in Categories on GraphWiz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 25 Nov 2023 00:00:00 -0100</lastBuildDate><atom:link href="https://graphwizai.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>hubs</title>
-      <link>https://graphwizai.github.io/categories/hubs/</link>
-      <pubDate>Sat, 25 Nov 2023 00:00:00 -0100</pubDate>
-      
-      <guid>https://graphwizai.github.io/categories/hubs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>vr</title>
-      <link>https://graphwizai.github.io/categories/vr/</link>
-      <pubDate>Sat, 25 Nov 2023 00:00:00 -0100</pubDate>
-      
-      <guid>https://graphwizai.github.io/categories/vr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>webxr</title>
-      <link>https://graphwizai.github.io/categories/webxr/</link>
-      <pubDate>Sat, 25 Nov 2023 00:00:00 -0100</pubDate>
-      
-      <guid>https://graphwizai.github.io/categories/webxr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>xr</title>
-      <link>https://graphwizai.github.io/categories/xr/</link>
-      <pubDate>Sat, 25 Nov 2023 00:00:00 -0100</pubDate>
-      
-      <guid>https://graphwizai.github.io/categories/xr/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Fri, 11 Aug 2023 00:00:00 -0100</lastBuildDate><atom:link href="https://graphwizai.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ar</title>
       <link>https://graphwizai.github.io/categories/ar/</link>
@@ -67,6 +31,24 @@
       <pubDate>Fri, 11 Aug 2023 00:00:00 -0100</pubDate>
       
       <guid>https://graphwizai.github.io/categories/mozilla-hubs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vr</title>
+      <link>https://graphwizai.github.io/categories/vr/</link>
+      <pubDate>Fri, 11 Aug 2023 00:00:00 -0100</pubDate>
+      
+      <guid>https://graphwizai.github.io/categories/vr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>xr</title>
+      <link>https://graphwizai.github.io/categories/xr/</link>
+      <pubDate>Fri, 11 Aug 2023 00:00:00 -0100</pubDate>
+      
+      <guid>https://graphwizai.github.io/categories/xr/</guid>
       <description></description>
     </item>
     

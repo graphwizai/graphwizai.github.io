@@ -2,49 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://graphwizai.github.io/categories/</loc>
-    <lastmod>2023-11-25T00:00:00-01:00</lastmod>
-  </url><url>
-    <loc>https://graphwizai.github.io/</loc>
-    <lastmod>2023-11-25T00:00:00-01:00</lastmod>
-  </url><url>
-    <loc>https://graphwizai.github.io/tags/hubs/</loc>
-    <lastmod>2023-11-25T00:00:00-01:00</lastmod>
-  </url><url>
-    <loc>https://graphwizai.github.io/categories/hubs/</loc>
-    <lastmod>2023-11-25T00:00:00-01:00</lastmod>
-  </url><url>
-    <loc>https://graphwizai.github.io/xr/hubs-learning-rooms/</loc>
-    <lastmod>2023-11-25T00:00:00-01:00</lastmod>
-  </url><url>
-    <loc>https://graphwizai.github.io/tags/learning/</loc>
-    <lastmod>2023-11-25T00:00:00-01:00</lastmod>
-  </url><url>
-    <loc>https://graphwizai.github.io/tags/learning-rooms/</loc>
-    <lastmod>2023-11-25T00:00:00-01:00</lastmod>
-  </url><url>
-    <loc>https://graphwizai.github.io/tags/</loc>
-    <lastmod>2023-11-25T00:00:00-01:00</lastmod>
-  </url><url>
-    <loc>https://graphwizai.github.io/tags/vr/</loc>
-    <lastmod>2023-11-25T00:00:00-01:00</lastmod>
-  </url><url>
-    <loc>https://graphwizai.github.io/categories/vr/</loc>
-    <lastmod>2023-11-25T00:00:00-01:00</lastmod>
-  </url><url>
-    <loc>https://graphwizai.github.io/categories/webxr/</loc>
-    <lastmod>2023-11-25T00:00:00-01:00</lastmod>
-  </url><url>
-    <loc>https://graphwizai.github.io/tags/xr/</loc>
-    <lastmod>2023-11-25T00:00:00-01:00</lastmod>
-  </url><url>
-    <loc>https://graphwizai.github.io/categories/xr/</loc>
-    <lastmod>2023-11-25T00:00:00-01:00</lastmod>
-  </url><url>
-    <loc>https://graphwizai.github.io/xr/</loc>
-    <lastmod>2023-11-25T00:00:00-01:00</lastmod>
-  </url><url>
     <loc>https://graphwizai.github.io/categories/ar/</loc>
+    <lastmod>2023-08-11T00:00:00-01:00</lastmod>
+  </url><url>
+    <loc>https://graphwizai.github.io/categories/</loc>
     <lastmod>2023-08-11T00:00:00-01:00</lastmod>
   </url><url>
     <loc>https://graphwizai.github.io/tags/experiments/</loc>
@@ -53,10 +14,34 @@
     <loc>https://graphwizai.github.io/categories/experiments/</loc>
     <lastmod>2023-08-11T00:00:00-01:00</lastmod>
   </url><url>
+    <loc>https://graphwizai.github.io/</loc>
+    <lastmod>2023-08-11T00:00:00-01:00</lastmod>
+  </url><url>
+    <loc>https://graphwizai.github.io/tags/learning/</loc>
+    <lastmod>2023-08-11T00:00:00-01:00</lastmod>
+  </url><url>
     <loc>https://graphwizai.github.io/xr/hubs_experiments/</loc>
     <lastmod>2023-08-11T00:00:00-01:00</lastmod>
   </url><url>
     <loc>https://graphwizai.github.io/categories/mozilla-hubs/</loc>
+    <lastmod>2023-08-11T00:00:00-01:00</lastmod>
+  </url><url>
+    <loc>https://graphwizai.github.io/tags/</loc>
+    <lastmod>2023-08-11T00:00:00-01:00</lastmod>
+  </url><url>
+    <loc>https://graphwizai.github.io/tags/vr/</loc>
+    <lastmod>2023-08-11T00:00:00-01:00</lastmod>
+  </url><url>
+    <loc>https://graphwizai.github.io/categories/vr/</loc>
+    <lastmod>2023-08-11T00:00:00-01:00</lastmod>
+  </url><url>
+    <loc>https://graphwizai.github.io/tags/xr/</loc>
+    <lastmod>2023-08-11T00:00:00-01:00</lastmod>
+  </url><url>
+    <loc>https://graphwizai.github.io/categories/xr/</loc>
+    <lastmod>2023-08-11T00:00:00-01:00</lastmod>
+  </url><url>
+    <loc>https://graphwizai.github.io/xr/</loc>
     <lastmod>2023-08-11T00:00:00-01:00</lastmod>
   </url><url>
     <loc>https://graphwizai.github.io/categories/hello-webxr/</loc>
