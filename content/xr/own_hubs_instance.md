@@ -2,8 +2,8 @@
 categories = ["xr", "vr", "webxr", "hubs"]
 date = "2023-11-25T00:00:00-01:00"
 draft = false
-slug = "own-hobs"
-tags = ["xr", "Mozilla Hubs"]
+slug = "hubs-learning-rooms"
+tags = ["xr", "Hubs", "Learning", "VR", "Learning Rooms"]
 title = "Own Hubs Instance"
 comments = false
 showcomments = false
