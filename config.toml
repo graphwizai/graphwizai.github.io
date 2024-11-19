@@ -29,7 +29,7 @@ enableRobotsTXT = true
 ## Site Settings
 [params]
 author = "GraphWiz"
-intro = "AI & XR Solutions"
+intro = "AI & XR solutions"
 description = "Better answers for you!"
 authorimage = "graphwiz_big.png"
 dateformat = "Jan 2, 2006"
@@ -52,7 +52,7 @@ email = "info@graphwiz.ai"
 
 ## Extras
 [params.extra]
-copyright = "© 2025. GraphWiz AI. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)." 
+copyright = "© 2025. GraphWiz. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)." 
 poweredby = false
 hightlightjs = true
 
