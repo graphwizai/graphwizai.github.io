@@ -31,7 +31,7 @@ enableRobotsTXT = true
 author = "GraphWiz"
 intro = "AI & XR Solutions"
 description = "Better answers for you!"
-authorimage = "graphwiz.jpeg"
+authorimage = "graphwiz_big.png"
 dateformat = "Jan 2, 2006"
 
 ## Site Meta Settings
