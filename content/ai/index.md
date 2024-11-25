@@ -16,6 +16,6 @@ The only constant is change.
 This is how a code monkey looks like in 2025:
 <center>
     <a href="https://hubs.tobias-weiss.org/">
-        <img src="img/code-monkey.png" width="95%">
+        <img src="img/code-monkey.jpg" width="95%">
     </a>
 </center>
