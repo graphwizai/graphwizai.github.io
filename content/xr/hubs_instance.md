@@ -21,6 +21,7 @@ This virtual space showcases the power and accessibility of Hubs, a virtual real
 </center>
 
 <p style="text-align: center;">
+</br>
 <em>
 How do new, exciting and at the same time challenging technologies, such as virtual reality, find their way into university teaching? 
 </em>
