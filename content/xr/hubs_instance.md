@@ -3,7 +3,7 @@ categories = ["xr", "vr", "webxr", "hubs"]
 date = "2024-11-25T00:00:00-01:00"
 draft = false
 slug = "hubs-learning-rooms"
-tags = ["xr", "Hubs", "Learning", "VR", "Learning Rooms"]
+tags = ["xr", "Hubs", "Learning", "VR", "Learning Rooms", "Immersive", "Social", "Platform", "Collaboration"]
 title = "Hubs Learning Rooms"
 comments = false
 showcomments = false
@@ -26,7 +26,7 @@ How do new, exciting and at the same time challenging technologies, such as virt
 </em>
 </p>
 
-[Our paper](https://tobiasweiss-ai-xr.github.io/2023_vr_ar_learning_workshop.pdf) describes an interdisciplinary project that addresses precisely this question. 
+[Our paper](https://www.researchgate.net/publication/385576780_Eine_interdisziplinare_Kooperation_in_der_Hochschullehre_mit_Hilfe_der_virtuellen_Realitat_Status_Quo_eines_Lernraum_Projekts_das_mittels_Mozilla_Hubs_das_Periodensystem_der_Elemente_sowie_experimente) describes an interdisciplinary project that addresses precisely this question. 
 Our goal is to represent the periodic table of elements as a network of virtual environments in which each element has its own space.
 A separate learning environment should be designed for each element, which is enriched with information about the elements (e.g. in the case of nitrogen, the formation of nitrogen oxides in car traffic or the production of fertilizers).
 This article describes our iterative approach and the optimization of an existing first prototype.
