@@ -6,29 +6,38 @@
     <description>Recent content in Tags on GraphWiz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 11 Aug 2023 00:00:00 -0100</lastBuildDate><atom:link href="https://graphwizai.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Nov 2024 00:00:00 -0100</lastBuildDate><atom:link href="https://graphwizai.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>experiments</title>
-      <link>https://graphwizai.github.io/tags/experiments/</link>
-      <pubDate>Fri, 11 Aug 2023 00:00:00 -0100</pubDate>
+      <title>Hubs</title>
+      <link>https://graphwizai.github.io/tags/hubs/</link>
+      <pubDate>Mon, 25 Nov 2024 00:00:00 -0100</pubDate>
       
-      <guid>https://graphwizai.github.io/tags/experiments/</guid>
+      <guid>https://graphwizai.github.io/tags/hubs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning</title>
       <link>https://graphwizai.github.io/tags/learning/</link>
-      <pubDate>Fri, 11 Aug 2023 00:00:00 -0100</pubDate>
+      <pubDate>Mon, 25 Nov 2024 00:00:00 -0100</pubDate>
       
       <guid>https://graphwizai.github.io/tags/learning/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Learning Rooms</title>
+      <link>https://graphwizai.github.io/tags/learning-rooms/</link>
+      <pubDate>Mon, 25 Nov 2024 00:00:00 -0100</pubDate>
+      
+      <guid>https://graphwizai.github.io/tags/learning-rooms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>vr</title>
       <link>https://graphwizai.github.io/tags/vr/</link>
-      <pubDate>Fri, 11 Aug 2023 00:00:00 -0100</pubDate>
+      <pubDate>Mon, 25 Nov 2024 00:00:00 -0100</pubDate>
       
       <guid>https://graphwizai.github.io/tags/vr/</guid>
       <description></description>
@@ -37,9 +46,27 @@
     <item>
       <title>xr</title>
       <link>https://graphwizai.github.io/tags/xr/</link>
-      <pubDate>Fri, 11 Aug 2023 00:00:00 -0100</pubDate>
+      <pubDate>Mon, 25 Nov 2024 00:00:00 -0100</pubDate>
       
       <guid>https://graphwizai.github.io/tags/xr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environments</title>
+      <link>https://graphwizai.github.io/tags/environments/</link>
+      <pubDate>Fri, 11 Aug 2023 00:00:00 -0100</pubDate>
+      
+      <guid>https://graphwizai.github.io/tags/environments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Immersive Platform</title>
+      <link>https://graphwizai.github.io/tags/immersive-platform/</link>
+      <pubDate>Fri, 11 Aug 2023 00:00:00 -0100</pubDate>
+      
+      <guid>https://graphwizai.github.io/tags/immersive-platform/</guid>
       <description></description>
     </item>
     

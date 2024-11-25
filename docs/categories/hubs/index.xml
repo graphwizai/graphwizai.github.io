@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Learning on GraphWiz</title>
-    <link>https://graphwizai.github.io/tags/learning/</link>
-    <description>Recent content in Learning on GraphWiz</description>
+    <title>hubs on GraphWiz</title>
+    <link>https://graphwizai.github.io/categories/hubs/</link>
+    <description>Recent content in hubs on GraphWiz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 25 Nov 2024 00:00:00 -0100</lastBuildDate><atom:link href="https://graphwizai.github.io/tags/learning/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Nov 2024 00:00:00 -0100</lastBuildDate><atom:link href="https://graphwizai.github.io/categories/hubs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hubs Learning Rooms</title>
       <link>https://graphwizai.github.io/xr/hubs-learning-rooms/</link>
@@ -15,15 +15,6 @@
       <guid>https://graphwizai.github.io/xr/hubs-learning-rooms/</guid>
       <description>GraphWiz has launched its own Hubs instance: https://hubs.tobias-weiss.org/
 This virtual space showcases the power and accessibility of Hubs, a virtual reality (VR) platform enabling users to create and join shared 3D environments for socializing, collaboration, and immersive experiences. Users can interact via customizable avatars directly from their web browsers, eliminating the need for plugins or downloads. GraphWiz’s new Hubs instance provides a personalized and engaging environment for connection, communication, and exploration within the virtual realm, reflecting the company’s commitment to innovative digital spaces and the growing popularity of virtual collaboration tools.</description>
-    </item>
-    
-    <item>
-      <title>Learning Room Environments</title>
-      <link>https://graphwizai.github.io/xr/hubs_experiments/</link>
-      <pubDate>Fri, 11 Aug 2023 00:00:00 -0100</pubDate>
-      
-      <guid>https://graphwizai.github.io/xr/hubs_experiments/</guid>
-      <description>How do new, exciting and at the same time challenging technologies, such as virtual reality, find their way into university teaching?  Our paper describes an interdisciplinary project that addresses precisely this question. Our goal is to represent the periodic table of elements as a network of virtual environments in which each element has its own space. A separate learning environment should be designed for each element, which is enriched with information about the elements (e.</description>
     </item>
     
   </channel>
