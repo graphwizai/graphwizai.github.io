@@ -57,11 +57,11 @@ poweredby = false
 hightlightjs = true
 
 ## Main Menu
-[[menu.main]]
-    name = "artificial intelligence"
-    identifier = "ai"
-    weight = 100
-    url = "/ai/"
+#[[menu.main]]
+#    name = "artificial intelligence"
+#    identifier = "ai"
+#    weight = 100
+#    url = "/ai/"
 [[menu.main]]
     name = "eXtended Reality"
     weight = 200
