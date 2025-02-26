@@ -30,7 +30,7 @@ enableRobotsTXT = true
 [params]
 author = "GraphWiz"
 intro = "AI & XR enthusiasm"
-description = "Stunning immersive solutions!"
+description = ""
 authorimage = "graphwiz_big.png"
 dateformat = "Jan 2, 2006"
 
