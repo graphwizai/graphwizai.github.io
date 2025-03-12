@@ -106,5 +106,23 @@
       <description></description>
     </item>
     
+    <item>
+      <title>ops</title>
+      <link>https://graphwizai.github.io/tags/ops/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 -0100</pubDate>
+      
+      <guid>https://graphwizai.github.io/tags/ops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>workshops</title>
+      <link>https://graphwizai.github.io/tags/workshops/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 -0100</pubDate>
+      
+      <guid>https://graphwizai.github.io/tags/workshops/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
