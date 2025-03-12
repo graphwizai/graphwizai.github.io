@@ -10,4 +10,4 @@ showcomments = false
 showpagemeta = false
 +++
 
-What does it even mean? Artificial Intelligence?
+WIP
