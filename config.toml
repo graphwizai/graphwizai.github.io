@@ -29,14 +29,14 @@ enableRobotsTXT = true
 ## Site Settings
 [params]
 author = "GraphWiz"
-intro = "AI & XR enthusiasm"
+intro = "IT consulting"
 description = ""
 authorimage = "graphwiz_big.png"
 dateformat = "Jan 2, 2006"
 
 ## Site Meta Settings
 [params.meta]
-description = "Professional homepage"
+description = "AI & XR enthusiasm"
 keywords = "ai,xr,ar,vr"
 
 ## Social Accounts
@@ -57,13 +57,23 @@ poweredby = false
 hightlightjs = true
 
 ## Main Menu
-#[[menu.main]]
-#    name = "artificial intelligence"
-#    identifier = "ai"
-#    weight = 100
-#    url = "/ai/"
+[[menu.main]]
+    name = "artificial intelligence"
+    identifier = "ai"
+    weight = 100
+    url = "/"
 [[menu.main]]
     name = "eXtended Reality"
     weight = 200
     identifier = "xr"
     url = "/xr/"
+[[menu.main]]
+    name = "linux"
+    weight = 200
+    identifier = "xr"
+    url = "/"
+[[menu.main]]
+    name = "workshops"
+    weight = 200
+    identifier = "xr"
+    url = "/"
