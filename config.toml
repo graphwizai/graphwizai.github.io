@@ -69,11 +69,11 @@ hightlightjs = true
     url = "/xr/"
 [[menu.main]]
     name = "linux"
-    weight = 200
+    weight = 300
     identifier = "xr"
     url = "/"
 [[menu.main]]
     name = "workshops"
-    weight = 200
+    weight = 400
     identifier = "xr"
     url = "/"
